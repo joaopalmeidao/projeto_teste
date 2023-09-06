@@ -1,21 +1,12 @@
 
-def teste_main():
-    pass
+def testando_git():
+    print('teste')
 
-def teste_main():
-    pass
+def testando_git():
+    print('teste')
 
-def teste_main():
-    pass
+def testando_git():
+    print('teste')
 
-def teste_main():
-    pass
-
-def teste_main():
-    pass
-
-def teste_main():
-    pass
-
-def teste_main():
-    pass
+def testando_git():
+    print('teste')
