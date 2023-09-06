@@ -1,3 +1,3 @@
 
-def teste_main():
-    pass
+def testando_git():
+    print('teste')
